@@ -116,3 +116,5 @@ while opMenu != 5:
     else:
         # Mensaje de error
         print("Porfavor, escoja una opción valida.\n")
+
+# El código sigue incompleto, ¡ando trabajando en eso! :)
